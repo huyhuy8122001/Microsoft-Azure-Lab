@@ -1,4 +1,4 @@
-# Lab 06 - Implement Traffic Management
+# Lab 10 - Implement Traffic Management
 
 
 ## Lab scenario
